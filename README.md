@@ -23,5 +23,6 @@
 <br />
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Aryan-Rajput&theme=react-dark)
 
+<a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
 
 ### Let's connect ? 🤝
