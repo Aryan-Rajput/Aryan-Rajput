@@ -2,7 +2,7 @@
 <h3 align="left">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Django** and working on **Godot**
-- 🔭 I’m looking forward for **GAME OFF 2022**
+- 🔭 I’m looking forward for **New stuff to do**
 - 📫 Talk to me at **aryan.ed4200@gmail.com**
 
 
