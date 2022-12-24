@@ -19,7 +19,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryan-Rajput&theme=dark&background=090021)](https://git.io/streak-stats)
-<br />
-![github graph](https://activity-graph.herokuapp.com/graph?username=Aryan-Rajput&theme=react-dark)
 
 ### Let's connect ? 🤝
