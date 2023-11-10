@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Aryan Rajput</h1>
 <h3 align="left">A passionate developer from India</h3>
 
+[![An image of @aryanrajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanrajput)](https://holopin.io/@aryanrajput)
+
 - 🌱 I’m currently learning **Django** and working on **Godot**
 - 🔭 I’m looking forward for **New stuff to do**
 - 📫 Talk to me at **aryan.ed4200@gmail.com**
