@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Aryan Rajput</h1>
 <h3 align="left">A passionate developer from India</h3>
-<div align="right">
+<div align="left">
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Aryan-Rajput&style=for-the-badge">
 </a>
