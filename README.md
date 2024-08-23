@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm Aryan Rajput</h1>
 <h3 align="left">A passionate developer from India</h3>
+<div align="right">
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Aryan-Rajput&style=for-the-badge">
+</a>
+</div>
 
 [![An image of @aryanrajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanrajput)](https://holopin.io/@aryanrajput)
 
