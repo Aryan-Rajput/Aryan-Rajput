@@ -1,30 +1,100 @@
-<h1 align="left">Hi 👋, I'm Aryan Rajput</h1>
-<h3 align="left">A passionate developer from India</h3>
-<div align="left">
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aryan-Rajput&style=for-the-badge">
-</a>
-</div>
+<h1 align="center">Hi, I'm Aryan Rajput 👋</h1>
 
-[![An image of @aryanrajput's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanrajput)](https://holopin.io/@aryanrajput)
+<p align="center">
+  <b>Data Engineer · Delhi, India</b><br/>
+  Building scalable data pipelines and cloud-native solutions
+</p>
 
-- 🌱 I’m currently learning **Django** and working on **Godot**
-- 🔭 I’m looking forward for **New stuff to do**
-- 📫 Talk to me at **aryan.ed4200@gmail.com**
+<p align="center">
+  <a href="mailto:aryan.ed4200@gmail.com"><img src="https://img.shields.io/badge/Email-aryan.ed4200%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aryan-rajput"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Rajput-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Rajput&style=flat-square&color=0078D4" alt="profile views"/>
+</p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan rajput" height="30" width="40" /></a>
+## About Me
 
+- Currently building a **Credit Card Fraud Analytics Pipeline** — end-to-end medallion architecture using AWS, Snowflake, dbt & Airflow
+- Preparing for **AWS Cloud Practitioner** (Apr 2025) and **AWS Solutions Architect Associate** (May 2025)
+- Deepening expertise in **Apache Spark, Databricks, and real-time data streaming**
+- Trained in **Ab Initio, Oracle SQL, and Unix** — intermediate SQL across Oracle, PostgreSQL & Snowflake
+- Focused on building a strong portfolio in **Data Engineering & Cloud Infrastructure**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## Tech Stack
 
+**Languages**
 
-### :fire: My Stats :
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryan-Rajput&theme=dark&background=090021)](https://git.io/streak-stats)
+**Data Engineering & Processing**
 
-### Let's connect ? 🤝
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ab Initio](https://img.shields.io/badge/Ab%20Initio-002D62?style=flat-square&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [CC Fraud Analytics Pipeline](https://github.com/Aryan-Rajput/cc-fraud-pipeline)
+> End-to-end data pipeline for credit card fraud detection using a medallion architecture (Bronze → Silver → Gold)
+
+- **Stack:** AWS S3 · AWS Glue · Snowflake · dbt · Apache Airflow · GitHub Actions · Power BI
+- **Highlights:** 1.85M+ rows processed · PII masking · automated CI/CD · full data lineage via dbt
+- **Architecture:** Medallion (raw → cleansed → aggregated) on cloud-native infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Rajput&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rajput&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rajput&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Certifications (In Progress)
+
+| Certification | Provider | Target Date |
+|---|---|---|
+| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | April 2025 |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | May 2025 |
+
+---
+
+<p align="center">
+  <i>Open to Data Engineering opportunities · Always building something</i>
+</p>
