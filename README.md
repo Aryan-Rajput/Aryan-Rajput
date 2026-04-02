@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [CC Fraud Analytics Pipeline](https://github.com/Aryan-Rajput/cc-fraud-pipeline)
+### 🔐 [CC Fraud Analytics Pipeline](https://github.com/Aryan-Rajput/cc_fraud_pipeline)
 > End-to-end data pipeline for credit card fraud detection using a medallion architecture (Bronze → Silver → Gold)
 
 - **Stack:** AWS S3 · AWS Glue · Snowflake · dbt · Apache Airflow · GitHub Actions · Power BI
