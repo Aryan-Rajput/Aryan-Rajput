@@ -76,12 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Rajput&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rajput&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rajput&theme=default&hide_border=true"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Aryan-Rajput&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rajput&theme=dark&hide_border=true"/>
 </p>
 
 ---
