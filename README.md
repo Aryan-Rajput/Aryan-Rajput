@@ -14,10 +14,11 @@
 
 ## About Me
 
-- Currently building a **Credit Card Fraud Analytics Pipeline** — end-to-end medallion architecture using AWS, Snowflake, dbt & Airflow
+- Currently building an **Indian Airspace Intelligence Platform/Pipeline** -- real time ADS-B flight telemetry data ingestion via GCP cloud funcs processing live flights through DBricks with MLFlow anomaly detection and Streamlit Dashboard 
+- Completed building the **Credit Card Fraud Analytics Pipeline** -- end-to-end medallion architecture using AWS, Snowflake, dbt & Airflow
 - Preparing for **AWS Cloud Practitioner** (Apr 2025) and **AWS Solutions Architect Associate** (May 2025)
 - Deepening expertise in **Apache Spark, Databricks, and real-time data streaming**
-- Trained in **Ab Initio, Oracle SQL, and Unix** — intermediate SQL across Oracle, PostgreSQL & Snowflake
+- Trained in **Ab Initio, Oracle SQL, and Unix** -- intermediate SQL across Oracle, PostgreSQL & Snowflake
 - Focused on building a strong portfolio in **Data Engineering & Cloud Infrastructure**
 
 ---
