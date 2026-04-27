@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:aryan.ed4200@gmail.com"><img src="https://img.shields.io/badge/Email-aryan.ed4200%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/aryan-rajput"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Rajput-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-rajput-?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Rajput-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
