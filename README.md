@@ -87,7 +87,7 @@
 | Certification | Provider | Target Date | Completed |
 |---|---|---|---|
 | AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | April 2025 | Yes |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | May 2025 | Not yet |
+| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | May 2025 | Postponed |
 
 ---
 
