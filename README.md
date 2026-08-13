@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Aryan Rajput 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · Pune, India</b><br/>
-  making pipelines that don't fall over, allegedly
+  <b>Data Engineer · Somewhere in Pune, India</b><br/>
+  making pipelines that don't fall over, hopefully
 </p>
 
 <p align="center">
@@ -14,14 +14,13 @@
 
 ## Me.?
 
-- Currently building the **Crypto Market Microstructure Pipeline** -- real-time BTC/USDT & ETH/USDT tick ingestion via Binance WebSocket, streamed through Redpanda Cloud into Spark Structured Streaming, landing in Delta Lake on S3 (Bronze/Silver layers live); engineering VWAP and order flow imbalance (OFI) features per Cont, Kukanov & Stoikov (2014)
+- Currently working on the **Crypto Market Microstructure Pipeline** -- real time BTC/USDT & ETH/USDT tick ingestion via Binance WebSocket streamed through Redpanda Cloud into Spark Structured Streaming, landing in Delta Lake on S3 (Bronze/Silver layers live -- gold in progress waiting for sufficient data) - VWAP and order flow imbalance (OFI) features per Cont, Kukanov & Stoikov (2014)
 - Completed the **Credit Card Fraud Analytics Pipeline** -- end-to-end medallion architecture using AWS, Snowflake, dbt & Airflow, with PII tokenisation and Z-score anomaly detection
 - **Indian Airspace Intelligence Platform** -- real-time ADS-B flight telemetry pipeline (OpenSky API → S3 → Databricks Lakeflow); currently paused after diagnosing OpenSky's hyperscaler IP blocklisting across multi-cloud testing
-- Completed certifications in **Ab Initio (A3–A5)**, **IBM Python for Data Science & AI**, and **OCEAN (SQL, Python, Agile)**
 - Deepening expertise in **Apache Spark, Kafka/Redpanda, and real-time streaming architectures**
 - Financial domain exposure spans **Ab Initio-based data migration, AML monitoring, fraud detection, and crypto market microstructure** -- fintech data is where I've accidentally ended up and I'm not mad about it
-- Long game: **Data Engineering & Quant Finance infra**. Short game: ship the next layer before I overthink it
-- Will absolutely go down a rabbit hole reading market microstructure papers instead of doing something "productive"
+- Long game plan: **Data Engineering & Quant Finance infra**. Short game: ship the next layer before I give up
+- trying to reading market microstructure papers instead of doing something "productive"
 
 ---
 
@@ -70,7 +69,7 @@
 ## 🚀 Things I've Actually Built (mostly)
 
 ### 📈 [Crypto Market Microstructure Pipeline](https://github.com/Aryan-Rajput/crypto-market-pipeline)
-> Real-time market microstructure feature engineering pipeline for BTC/USDT and ETH/USDT — *in progress*
+> Real-time market microstructure feature engineering pipeline for BTC/USDT and ETH/USDT — *nearly done*
 
 - **Stack:** Binance WebSocket · Redpanda Cloud · Spark Structured Streaming · AWS S3 Delta Lake
 - **Highlights:** VWAP & order flow imbalance (OFI) features approximated from taker-side trade flow (Cont, Kukanov & Stoikov, 2014) · Bronze/Silver layers live
@@ -84,7 +83,7 @@
 - **Architecture:** Medallion (raw → cleansed → aggregated) on cloud-native infrastructure
 
 ### ✈️ [Indian Airspace Intelligence Platform](https://github.com/Aryan-Rajput/indian-airspace-intelligence)
-> Real-time ADS-B flight telemetry ingestion for Indian airspace — *paused*
+> Real-time ADS-B flight telemetry ingestion for Indian airspace — *in progress*
 
 - **Stack:** OpenSky Network API · AWS S3 · Terraform · Databricks Lakeflow
 - **Highlights:** 25,000+ partitioned flight records ingested · diagnosed OpenSky's hyperscaler IP blocklisting via multi-cloud (GCP/EC2) testing
@@ -103,13 +102,14 @@
 ## 🏆 Receipts
 
 | Certification | Provider | Status |
-|---|---|---|
-| Ab Initio (A3–A5) | Ab Initio | Completed |
-| IBM Python for Data Science & AI | IBM | Completed |
-| OCEAN (SQL, Python, Agile) | Capgemini | Completed |
+|---|---|
+| AWS CCP | Completed |
+| AWS CAP | Completed |
+| AWS SAA | In Progress |
+| Databricks Data Engineer Associate | Postponed |
 
 ---
 
 <p align="center">
-  <i>open to DE roles · perpetually mid-project · send help (or opportunities)</i>
+  <i>open to DE roles · perpetually mid-project · send help (or opportunities) :)</i>
 </p>
