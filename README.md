@@ -101,7 +101,7 @@
 
 ## 🏆 Receipts
 
-| Certification | Provider | Status |
+| Certification | Status |
 |---|---|
 | AWS CCP | Completed |
 | AWS CAP | Completed |
