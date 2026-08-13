@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineer · Somewhere in Pune, India</b><br/>
-  making pipelines that don't fall over, hopefully
+  Learning about pipelines and stuff
 </p>
 
 <p align="center">
