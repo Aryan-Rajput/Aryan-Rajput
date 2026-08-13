@@ -77,7 +77,6 @@
 
 <p align="center">
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Aryan-Rajput&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rajput&theme=dark&hide_border=true"/>
 </p>
 
 ---
